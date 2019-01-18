@@ -1,11 +1,11 @@
 # NodeLeetCode
 
-## Init
+## Initialize
 ``` bash
 ./create-question.js
 ```
 
-## Create question
+## Create a Question
 ``` bash
 ./create-question.js question_number
 ```
