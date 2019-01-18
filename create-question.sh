@@ -8,6 +8,8 @@ echo "const { } = require('../src/A$1');
 
 describe('A$1', () => {
   describe('', () => {
-    
+    it('', () => {
+
+    });
   });
 });" >> "A$1.test.js"
