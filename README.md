@@ -2,12 +2,12 @@
 
 ## Initialize
 ``` bash
-bash ./create-question.js
+bash ./init.sh
 ```
 
 ## Create a Question
 ``` bash
-bash ./create-question.js question_number
+bash ./create-question.sh question_number
 ```
 
 ## Run testing
