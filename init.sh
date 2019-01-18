@@ -1,3 +1,3 @@
-npm install;
+yarn;
 mkdir src;
 mkdir test

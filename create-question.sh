@@ -1,5 +1,13 @@
 #!/bin/bash
 cd src
-touch "a$1.js"
+touch "A$1.js"
 cd ../test
-touch "a$1.test.js"
+touch "A$1.test.js"
+
+echo "const { } = require('../src/A$1');
+
+describe('A$1', () => {
+  describe('', () => {
+    
+  });
+});" >> "A$1.test.js"
