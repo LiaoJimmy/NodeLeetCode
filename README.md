@@ -1,5 +1,10 @@
 # NodeLeetCode
 
+## Preinstallation
+- Node.js
+- Yarn
+- VSCode
+
 ## Initialize
 ``` bash
 bash ./init.sh
