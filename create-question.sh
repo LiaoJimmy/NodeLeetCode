@@ -16,3 +16,5 @@ describe('A$1', () => {
 cd ..;
 code "./src/A$1.js";
 code "./test/A$1.test.js";
+
+npm test -- --testPathPattern="$1";

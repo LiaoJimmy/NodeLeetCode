@@ -10,12 +10,12 @@
 bash ./init.sh
 ```
 
-## Create a Question
+## Create a Question and Run the question testing
 ``` bash
 bash ./create-question.sh question_number
 ```
 
-## Run testing
+## Run all the testing
 ``` bash
 npm test
 ```
